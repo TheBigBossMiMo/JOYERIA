@@ -1,3 +1,3 @@
 # JOYERIA-APP
---
-Descripción
+
+DESCRIPCIÓN
